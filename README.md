@@ -78,5 +78,5 @@ Durante o desenvolvimento deste projeto, foram praticados:
 ## 👩‍💻 Desenvolvido por
 
 Andressa de Pinho Barreto  
-📍 Alagoinhas - BA 
-💻 Estudante de Desenvolvimento de Sistemas
+- 📍 Alagoinhas - BA 
+- 💻 Estudante de Desenvolvimento de Sistemas
