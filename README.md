@@ -1,7 +1,7 @@
 # 🌿 Green Yard - Website
 
 Projeto de um site responsivo para restaurante vegano, desenvolvido com foco em layout moderno, organização visual e boas práticas de HTML e CSS.
-!(./capa.png)
+!([./capa.png](https://github.com/DyTwT/Site-Restaurante-Vegano/blob/2d37e6c032d619ac56d0dbe8a2fbd03406642564/capa.png))
 
 ---
 
