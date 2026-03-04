@@ -1,6 +1,7 @@
 # 🌿 Green Yard - Website
 
 Projeto de um site responsivo para restaurante vegano, desenvolvido com foco em layout moderno, organização visual e boas práticas de HTML e CSS.
+!(./capa.png)
 
 ---
 
